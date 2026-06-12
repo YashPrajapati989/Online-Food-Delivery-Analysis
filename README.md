@@ -88,13 +88,6 @@ The project follows a complete data analytics workflow:
 - Pune and Bangalore followed closely.
 - These cities showed the highest customer spending behavior.
 
----
-
-## 📑 Project Report
-
-Detailed project documentation is available here:
-
-📄 **Online_Food_Delivery_Report.pdf**
 
 ---
 
@@ -127,5 +120,5 @@ Detailed project documentation is available here:
 
 **Yash Prajapati**
 
-- LinkedIn: Add Your LinkedIn URL
-- GitHub: Add Your GitHub URL
+- LinkedIn: https://www.linkedin.com/in/yash-prajapati-2b99392b8
+- GitHub: https://github.com/YashPrajapati989
