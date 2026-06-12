@@ -30,8 +30,6 @@ The project follows a complete data analytics workflow:
 
 ## 📂 Dataset Description
 
-![Dataset Description](images/dataset_description.png)
-
 ### Dataset Summary
 
 | Metric | Value |
