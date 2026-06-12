@@ -1,6 +1,6 @@
 # 🍔 Online Food Delivery Analysis
 
-![Cover](Images/cover.png)
+![Cover](images/cover.png)
 
 ## 📌 Project Overview
 
@@ -30,7 +30,7 @@ The project follows a complete data analytics workflow:
 
 ## 📂 Dataset Description
 
-![Dataset Description](Images/dataset_description.png)
+![Dataset Description](images/dataset_description.png)
 
 ### Dataset Summary
 
@@ -54,13 +54,13 @@ The project follows a complete data analytics workflow:
 
 ## 🗄️ Database Schema
 
-![ER Diagram](Images/er_diagram.png)
+![ER Diagram](images/er_diagram.png)
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
