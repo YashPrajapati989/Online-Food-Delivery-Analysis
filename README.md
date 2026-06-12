@@ -60,7 +60,7 @@ The project follows a complete data analytics workflow:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
