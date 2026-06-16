@@ -1,6 +1,13 @@
-# 🍔 Online Food Delivery Analysis | SQL & Excel Data Analytics Project
-
-> **End-to-end food delivery business analysis** — customer behavior, restaurant performance, revenue trends, and city-wise sales insights using SQL and an interactive Excel dashboard.
+# 🍕 Online Food Delivery Analysis using PostgreSQL
+ 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6B35?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+ 
+> A multi-table SQL analytics project modelling a food delivery platform — analysing restaurant performance, customer ordering behaviour, delivery efficiency, and revenue trends using PostgreSQL.
+ 
+---
 
 ![Cover](images/cover.png)
 
